@@ -19,6 +19,10 @@ export default function MenuLateral() {
                     <input type={"search"} placeholder="pesquisar" className={`text-base bg-transparent w-full text-white focus:outline-none ${!open && "hidden"}`}/>
 
                 </div>
+                <ul className="pt-2">
+                    teste
+
+                </ul>
 
             </div>
 
